@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+/* .button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    /* box-shadow: 0 9px rgb(0, 0, 0); */
+
+  /* .Deposit {
+    margin-left: 24em;
+  }
+  .Withdraw {
+      margin-right: 24em;
+  }
+
+  .button:hover {background-color: #888888}
+  
+  .button:active {
+    background-color: #999999;
+    box-shadow: 0 5px rgb(109, 104, 104);
+    transform: translateY(4px);
+  }  */
+  .button {
+    margin-left: 10em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .input {
+    margin-left: 10em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 {
+      text-align: center;
+      text-emphasis: bold;
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Montserrat;
+    background: white  }
+
+  .text-input {
+      width: 500px;
+      height: 100px;
+  }
+  
